@@ -1,0 +1,11 @@
+flask
+flask-cors
+ibm-watsonx-ai
+streamlit
+pypdf2
+requests
+streamlit
+PyPDF2
+pandas
+altair
+openpyxl
